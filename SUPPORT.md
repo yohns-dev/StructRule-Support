@@ -10,7 +10,7 @@ StructRule 사용 중 문제가 발생했거나 개선 의견이 있다면 GitHu
 
 ## 문제 신고 시 포함하면 좋은 정보
 
-- macOS 버전
+- 운영체제와 버전 (macOS 또는 Windows)
 - StructRule 앱 버전
 - 문제가 발생한 기능과 재현 순서
 - 기대한 결과와 실제 결과
@@ -20,4 +20,4 @@ StructRule 사용 중 문제가 발생했거나 개선 의견이 있다면 GitHu
 
 ---
 
-For support in English, open an [issue](https://github.com/yohns-dev/StructRule-Support/issues) with your macOS version, StructRule version, reproduction steps, expected result, and actual result.
+For support in English, open an [issue](https://github.com/yohns-dev/StructRule-Support/issues) with your operating system and version, StructRule version, reproduction steps, expected result, and actual result.

@@ -12,11 +12,11 @@ StructRule은 이름, 이메일 주소, 연락처, 위치 정보 등의 개인�
 
 StructRule은 사용자가 직접 선택한 파일과 폴더에만 접근합니다. 이 접근은 폴더 구조와 이름 규칙 확인, 프로젝트 생성 및 규칙 적용에 사용됩니다.
 
-선택한 폴더에 다시 접근하기 위한 보안 범위 북마크, 템플릿, 규칙, 프로젝트 정보 및 진단 로그는 사용자의 Mac에 로컬로 저장될 수 있습니다. 해당 정보는 외부 서버로 자동 전송되지 않습니다.
+선택한 폴더에 다시 접근하기 위해 운영체제가 제공하는 접근 권한 정보와 템플릿, 규칙, 프로젝트 정보 및 진단 로그가 사용자의 기기에 로컬로 저장될 수 있습니다. 해당 정보는 외부 서버로 자동 전송되지 않습니다.
 
 ## 알림
 
-StructRule은 규칙 위반을 안내하기 위해 macOS 알림을 사용할 수 있습니다. 알림은 기기에서 생성되며 외부 서버를 거치지 않습니다. 권한은 macOS 시스템 설정에서 언제든 변경할 수 있습니다.
+StructRule은 규칙 위반을 안내하기 위해 운영체제의 알림 기능을 사용할 수 있습니다. 알림은 기기에서 생성되며 외부 서버를 거치지 않습니다. 권한은 각 운영체제의 시스템 설정에서 언제든 변경할 수 있습니다.
 
 ## 제3자 제공 및 외부 전송
 
@@ -24,7 +24,7 @@ StructRule은 사용자 정보와 파일 내용을 판매하거나 제3자에게
 
 ## 데이터 관리
 
-사용자는 앱에서 등록한 프로젝트를 제거하고 관련 파일을 직접 삭제할 수 있습니다. 로컬 설정과 저장 데이터는 macOS의 앱 데이터 영역에 보관되며, 앱 삭제 후에도 시스템 정책에 따라 일부 설정이 남을 수 있습니다.
+사용자는 앱에서 등록한 프로젝트를 제거하고 관련 파일을 직접 삭제할 수 있습니다. 로컬 설정과 저장 데이터는 운영체제의 앱 데이터 영역에 보관되며, 앱 삭제 후에도 시스템 정책에 따라 일부 설정이 남을 수 있습니다.
 
 ## 방침 변경
 
@@ -38,4 +38,4 @@ StructRule은 사용자 정보와 파일 내용을 판매하거나 제3자에게
 
 ## Privacy Policy (English Summary)
 
-StructRule does not collect personal information, require an account, serve advertising, use analytics, or track users. It accesses only files and folders explicitly selected by the user. Project information, rules, security-scoped bookmarks, and diagnostic logs may be stored locally on the user's Mac and are not automatically transmitted to external servers. macOS notifications are generated locally.
+StructRule does not collect personal information, require an account, serve advertising, use analytics, or track users. It accesses only files and folders explicitly selected by the user. Project information, rules, operating-system access information, and diagnostic logs may be stored locally on the user's device and are not automatically transmitted to external servers. System notifications are generated locally.

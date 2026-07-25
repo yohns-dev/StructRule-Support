@@ -1,6 +1,6 @@
 # StructRule
 
-StructRule은 macOS에서 폴더 구조와 이름 규칙을 설계하고, 선택한 프로젝트의 위반 사항을 로컬에서 확인하는 앱입니다.
+StructRule은 폴더 구조와 이름 규칙을 설계하고, 선택한 프로젝트의 위반 사항을 기기에서 확인하는 데스크톱 앱입니다. macOS를 시작으로 Windows 지원도 준비하고 있습니다.
 
 ## 안내
 
@@ -15,4 +15,4 @@ StructRule은 계정 가입을 요구하지 않으며 광고, 분석 도구, 사
 
 ---
 
-StructRule is a macOS app for defining folder structures and rules and monitoring selected projects locally. This public repository contains support and policy documents only.
+StructRule is a desktop app for defining folder structures and rules and monitoring selected projects locally. It is launching on macOS, with Windows support planned. This public repository contains support and policy documents only.

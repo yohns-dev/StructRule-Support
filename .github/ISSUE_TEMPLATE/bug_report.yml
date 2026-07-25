@@ -7,10 +7,10 @@ body:
     attributes:
       value: 공개 글에 개인정보, 민감한 파일 내용 또는 전체 사용자 경로를 포함하지 마세요.
   - type: input
-    id: macos
+    id: operating-system
     attributes:
-      label: macOS 버전
-      placeholder: 예) macOS 15.5
+      label: 운영체제와 버전
+      placeholder: 예) macOS 15.5 또는 Windows 11 24H2
     validations:
       required: true
   - type: input
