@@ -32,7 +32,7 @@ StructRule은 사용자 정보와 파일 내용을 판매하거나 제3자에게
 
 ## 문의
 
-문의는 [StructRule Support Issues](https://github.com/yohns-dev/StructRule-Support/issues)를 이용해 주세요. 공개 게시물에는 개인정보나 민감한 파일 내용을 포함하지 마세요.
+개인정보 처리 관련 문의는 [structrule.support@gmail.com](mailto:structrule.support@gmail.com)으로 보내주세요. 일반적인 문제 신고와 기능 제안은 [StructRule Support Issues](https://github.com/yohns-dev/StructRule-Support/issues)를 이용할 수 있습니다. 공개 게시물에는 개인정보나 민감한 파일 내용을 포함하지 마세요.
 
 ---
 

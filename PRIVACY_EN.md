@@ -32,4 +32,4 @@ This policy may be updated when app features or legal requirements change. Updat
 
 ## Contact
 
-For privacy questions, use [StructRule Support Issues](https://github.com/yohns-dev/StructRule-Support/issues). Do not include personal information or sensitive file contents in a public issue.
+For privacy questions, email [structrule.support@gmail.com](mailto:structrule.support@gmail.com). For general bug reports and feature requests, you can use [StructRule Support Issues](https://github.com/yohns-dev/StructRule-Support/issues). Do not include personal information or sensitive file contents in a public issue.

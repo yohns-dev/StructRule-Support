@@ -1,9 +1,10 @@
 # StructRule 고객 지원
 
-StructRule 사용 중 문제가 발생했거나 개선 의견이 있다면 GitHub Issues를 이용해 주세요.
+StructRule 사용 중 문제가 발생했거나 개선 의견이 있다면 이메일 또는 GitHub Issues를 이용해 주세요.
 
 ## 문의하기
 
+- 이메일: [structrule.support@gmail.com](mailto:structrule.support@gmail.com)
 - [문제 신고](https://github.com/yohns-dev/StructRule-Support/issues/new?template=bug_report.yml)
 - [기능 제안](https://github.com/yohns-dev/StructRule-Support/issues/new?template=feature_request.yml)
 - [전체 문의 보기](https://github.com/yohns-dev/StructRule-Support/issues)
@@ -20,4 +21,4 @@ StructRule 사용 중 문제가 발생했거나 개선 의견이 있다면 GitHu
 
 ---
 
-For support in English, open an [issue](https://github.com/yohns-dev/StructRule-Support/issues) with your operating system and version, StructRule version, reproduction steps, expected result, and actual result.
+For support in English, email [structrule.support@gmail.com](mailto:structrule.support@gmail.com) or open an [issue](https://github.com/yohns-dev/StructRule-Support/issues) with your operating system and version, StructRule version, reproduction steps, expected result, and actual result.
