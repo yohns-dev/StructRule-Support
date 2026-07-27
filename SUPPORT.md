@@ -19,6 +19,3 @@ StructRule 사용 중 문제가 발생했거나 개선 의견이 있다면 이�
 
 프로젝트 원본 파일, 개인정보, 전체 사용자 경로 또는 보안에 민감한 내용을 공개 Issue에 첨부하지 마세요.
 
----
-
-For support in English, email [structrule.support@gmail.com](mailto:structrule.support@gmail.com) or open an [issue](https://github.com/yohns-dev/StructRule-Support/issues) with your operating system and version, StructRule version, reproduction steps, expected result, and actual result.
