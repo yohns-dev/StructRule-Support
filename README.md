@@ -13,6 +13,3 @@ StructRule은 계정 가입을 요구하지 않으며 광고, 분석 도구, 사
 
 이 저장소는 지원 및 정책 문서를 위한 공개 저장소이며 앱 소스 코드는 포함하지 않습니다.
 
----
-
-StructRule is a desktop app for defining folder structures and rules and checking selected projects for rule violations. This public repository contains support and policy documents only.
