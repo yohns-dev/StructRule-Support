@@ -1,4 +1,4 @@
-name: 문제 신고
+name: 문제 신고 (한국어)
 description: StructRule에서 발생한 오류나 예상과 다른 동작을 알려주세요.
 title: "[Bug] "
 labels: [bug]
@@ -30,12 +30,14 @@ body:
   - type: textarea
     id: expected
     attributes:
-      label: 기대한 결과
+      label: 예상한 동작
+      description: 문제가 없었다면 어떻게 동작해야 했는지 적어주세요.
     validations:
       required: true
   - type: textarea
     id: actual
     attributes:
-      label: 실제 결과
+      label: 실제로 발생한 동작
+      description: 예상과 다르게 동작한 내용을 적어주세요.
     validations:
       required: true

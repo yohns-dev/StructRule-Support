@@ -1,0 +1,24 @@
+name: Suggest a feature (English)
+description: Share an idea that could make StructRule more useful.
+title: "[Feature] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: Tell us what is currently inconvenient or difficult.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested feature
+      description: Briefly describe how you would like it to work.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Additional context
+      description: Add any alternatives, examples, or reference material that may help.

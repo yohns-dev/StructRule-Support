@@ -5,8 +5,8 @@ If you encounter a problem or have an idea for improving StructRule, contact us 
 ## Contact
 
 - Email: [structrule.support@gmail.com](mailto:structrule.support@gmail.com)
-- [Report a problem](https://github.com/yohns-dev/StructRule-Support/issues/new?template=bug_report.yml)
-- [Suggest a feature](https://github.com/yohns-dev/StructRule-Support/issues/new?template=feature_request.yml)
+- [Report a problem](https://github.com/yohns-dev/StructRule-Support/issues/new?template=bug_report_en.yml)
+- [Suggest a feature](https://github.com/yohns-dev/StructRule-Support/issues/new?template=feature_request_en.yml)
 - [View all issues](https://github.com/yohns-dev/StructRule-Support/issues)
 
 ## Helpful information for a bug report
